@@ -7,4 +7,4 @@ var2 = 20
 var3 = my_sum(var1, var2)
 var4 = my_prod(var1, var2)
 
-print(var3, var4)
+print("your sum is {}\nyour product is {}".format(var3, var4))
