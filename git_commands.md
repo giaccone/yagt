@@ -66,7 +66,7 @@ git push
 
 # Pull Request
 
-## Fork di un repository (da parte di terzi)
+## Fork di un repository (from other developers)
 
 To be handled mostly on GitHub website (see video)
 
