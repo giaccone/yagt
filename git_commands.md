@@ -16,7 +16,7 @@ git status
 
 ```
 git add filename
-git add .    # add all chenges
+git add .    # add all changes
 ```
 
 ```
@@ -66,8 +66,10 @@ git push
 
 # Pull Request
 
-**Fork di un repository (da parte di terzi)**
-Da gestire prevalentemente su GitHub (vedere video)
+## Fork di un repository (da parte di terzi)
 
-**pull request**
-Da gestire prevalentemente su GitHub (vedere video)
+To be handled mostly on GitHub website (see video)
+
+## pull request
+
+To be handled mostly on GitHub website (see video)
